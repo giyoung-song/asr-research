@@ -1,9 +1,9 @@
 # Research: Speech Recognition for Code-Mixed African Urban Vernaculars
 
-Giyoung Song · [email / site — optional]
+Giyoung Song · [giyoung00119@gmail.com]
 
 This repository collects my research on automatic speech recognition (ASR) for
-African urban vernaculars such as **Nouchi** and **Camfranglais**, where
+African urban dialect(or African Urban Youth Lanugage) such as **Nouchi** and **Camfranglais**, where
 language mixing is a conventionalized norm rather than occasional
 code-switching or borrowing (approaching what Auer terms a *fused lect*).
 
