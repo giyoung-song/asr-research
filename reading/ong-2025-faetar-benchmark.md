@@ -1,9 +1,6 @@
 # Ong et al. (2025) — The Faetar Speech Recognition Benchmark
 
 **Full citation:** Ong, Michael et al. 2025. The Faetar Speech Recognition Benchmark. *Interspeech 2025.* ⚠️ Full author list to confirm from the ISCA record.
-**Link:** ISCA Archive `interspeech_2025/ong25_interspeech` · arXiv:2409.08103 · leaderboard `perceptimatic.github.io/faetarspeech/`
-**Section:** C1
-**Read in full:** ⚠️ **no — abstract, introduction and partial text only.** Complete before committing this review.
 
 ⚠️ **Title differs between versions.** arXiv v2 is titled "The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language." Cite the Interspeech form.
 
