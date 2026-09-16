@@ -5,7 +5,7 @@
 **Section:** C1
 **Read in full:** ⚠️ **no — abstract and opening sections only.** Complete before committing.
 
-## TL;DR
+## Summary
 A follow-up to the Faetar benchmark testing whether the inconsistent transcriptions are what makes the task hard. Using a small hand-built lexicon, the answer is largely no: the inconsistencies are real but not the main obstacle.
 
 ## Problem
