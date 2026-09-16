@@ -7,7 +7,7 @@
 
 ⚠️ **Title differs between versions.** arXiv v2 is titled "The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language." Cite the Interspeech form.
 
-## TL;DR
+## Summary
 An ASR benchmark built from field recordings of Faetar, a Franco-Provençal variety of Italy, deliberately designed around the worst case rather than the average: noisy audio, about five hours transcribed, and no standard orthography, so that the transcriptions are internally inconsistent.
 
 ## Problem
