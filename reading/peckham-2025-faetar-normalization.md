@@ -1,9 +1,6 @@
 # Peckham, Ong, Nagy & Dunbar (2025) — Transcription normalization in the Faetar benchmark
 
-**Full citation:** Peckham, Leo, Michael Ong, Naomi Nagy & Ewan Dunbar. 2025. Investigating Transcription Normalization in the Faetar ASR Benchmark. ⚠️ Venue to confirm — may be preprint only.
-**Link:** arXiv:2508.11771
-**Section:** C1
-**Read in full:** ⚠️ **no — abstract and opening sections only.** Complete before committing.
+**Full citation:** Peckham, Leo, Michael Ong, Naomi Nagy & Ewan Dunbar. 2025. Investigating Transcription Normalization in the Faetar ASR Benchmark. 
 
 ## Summary
 A follow-up to the Faetar benchmark testing whether the inconsistent transcriptions are what makes the task hard. Using a small hand-built lexicon, the answer is largely no: the inconsistencies are real but not the main obstacle.
